@@ -1,4 +1,7 @@
-# Cybersecurity Lab Solutions
+
+
+<!-- INDEX_START -->
+# Cybersecurity Lab
 
 This repository contains solutions to various blue team and general cybersecurity labs from platforms like TryHackMe, Hack The Box, Blue Team Labs Online, and CyberDefenders.
 
@@ -7,8 +10,25 @@ This repository contains solutions to various blue team and general cybersecurit
 - 🛡️ Red Team (Exploitation, Enumeration)
 - 🌐 Web Security (XSS, SQLi)
 - 🔍 Forensics & Reverse Engineering
+- 📚 Other (General Cybersecurity)
 
+##  TryHackMe
 
-## Index
+- [Placeholder-Lab](TryHackMe/Placeholder-Lab/README.md)
 
-!['index'](_index.md)
+##  HackTheBox
+
+- [Placeholder-Lab](HackTheBox/Placeholder-Lab/README.md)
+
+##  BlueTeamLabs
+
+- [Placeholder-Lab](BlueTeamLabs/Placeholder-Lab/README.md)
+
+##  CyberDefenders
+
+- [Placeholder-Lab](CyberDefenders/Placeholder-Lab/README.md)
+
+##  Other
+
+- [Placeholder-Lab](Other/Placeholder-Lab/README.md)
+<!-- INDEX_END -->
