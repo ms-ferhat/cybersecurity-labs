@@ -1,5 +1,11 @@
 # Cybersecurity Lab Solutions
 
-This repository contains solutions to various blue team and cybersecurity labs from platforms like TryHackMe, Hack The Box, BlueTeamLabs, and CyberDefenders.
+This repository contains solutions to various blue team and general cybersecurity labs from platforms like TryHackMe, Hack The Box, Blue Team Labs Online, and CyberDefenders.
 
-See [_index.md](./_index.md) for a full list of all labs.
+### 🧠 Categories
+- 🔵 Blue Team (SIEM, Threat Hunting, DFIR)
+- 🛡️ Red Team (Exploitation, Enumeration)
+- 🌐 Web Security (XSS, SQLi)
+- 🔍 Forensics & Reverse Engineering
+
+

@@ -1,28 +1,22 @@
-import os
+# 🗂️ Lab Index
 
-def generate_index(base_path='.'):
-    platforms = ['TryHackMe', 'HackTheBox', 'BlueTeamLabs', 'CyberDefenders', 'Other']
-    index_lines = ["# 🗂️ Lab Index\n"]
 
-    for platform in platforms:
-        platform_path = os.path.join(base_path, platform)
-        if not os.path.isdir(platform_path):
-            continue
+## 📚 TryHackMe
 
-        index_lines.append(f"\n## 📚 {platform}\n")
+- [Placeholder-Lab](TryHackMe/Placeholder-Lab/README.md)
 
-        for lab in sorted(os.listdir(platform_path)):
-            lab_path = os.path.join(platform_path, lab)
-            readme_path = os.path.join(platform_path, lab, 'README.md')
-            if os.path.isdir(lab_path) and os.path.exists(readme_path):
-                rel_path = os.path.relpath(readme_path, base_path).replace("\\", "/")
-                index_lines.append(f"- [{lab}]({rel_path})")
+## 📚 HackTheBox
 
-    with open(os.path.join(base_path, "_index.md"), "w", encoding="utf-8") as f:
-        f.write("\n".join(index_lines))
+- [Placeholder-Lab](HackTheBox/Placeholder-Lab/README.md)
 
-    print("✅ _index.md generated successfully.")
+## 📚 BlueTeamLabs
 
-if __name__ == "__main__":
-    generate_index()
+- [Placeholder-Lab](BlueTeamLabs/Placeholder-Lab/README.md)
 
+## 📚 CyberDefenders
+
+- [Placeholder-Lab](CyberDefenders/Placeholder-Lab/README.md)
+
+## 📚 Other
+
+- [Placeholder-Lab](Other/Placeholder-Lab/README.md)
