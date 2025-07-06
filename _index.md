@@ -11,7 +11,7 @@ This repository contains solutions to various blue team and general cybersecurit
 
 ##  TryHackMe
 
-- [Placeholder-Lab](TryHackMe/Placeholder-Lab/README.md)
+- [Juice_Details](TryHackMe/Juice_Details/README.md)
 
 ##  HackTheBox
 
@@ -19,11 +19,11 @@ This repository contains solutions to various blue team and general cybersecurit
 
 ##  BlueTeamLabs
 
-- [Placeholder-Lab](BlueTeamLabs/Placeholder-Lab/README.md)
+- [follina](BlueTeamLabs/follina/README.md)
 
 ##  CyberDefenders
 
-- [Placeholder-Lab](CyberDefenders/Placeholder-Lab/README.md)
+- [XMLRat](CyberDefenders/XMLRat/README.md)
 
 ##  Other
 
