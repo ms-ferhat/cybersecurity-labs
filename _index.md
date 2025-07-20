@@ -12,19 +12,23 @@ This repository contains solutions to various blue team and general cybersecurit
 ##  TryHackMe
 
 - [Juice_Details](TryHackMe/Juice_Details/README.md)
+- [Memory-Forensics](TryHackMe/Memory-Forensics/README.md)
+- [Volt_Typhoon](TryHackMe/Volt_Typhoon/README.md)
 
 ##  HackTheBox
 
-- [Placeholder-Lab](HackTheBox/Placeholder-Lab/README.md)
+- [Phantom-Check](HackTheBox/Phantom-Check/README.md)
 
 ##  BlueTeamLabs
 
+- [The-Report](BlueTeamLabs/The-Report/README.md)
 - [follina](BlueTeamLabs/follina/README.md)
 
 ##  CyberDefenders
 
+- [Silent_Breanch](CyberDefenders/Silent_Breanch/README.md)
 - [XMLRat](CyberDefenders/XMLRat/README.md)
 
 ##  Other
 
-- [Placeholder-Lab](Other/Placeholder-Lab/README.md)
+- [jupyter](Other/jupyter/README.md)
