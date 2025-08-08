@@ -27,8 +27,10 @@ This repository contains solutions to various blue team and general cybersecurit
 ##  CyberDefenders
 
 - [Silent_Breanch](CyberDefenders/Silent_Breanch/README.md)
+- [Ulysses](CyberDefenders/Ulysses/README.md)
 - [XMLRat](CyberDefenders/XMLRat/README.md)
 
 ##  Other
 
+- [RDP](Other/RDP/README.md)
 - [jupyter](Other/jupyter/README.md)
