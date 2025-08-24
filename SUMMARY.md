@@ -1,6 +1,7 @@
 # Table of contents
 
-* [BlueTeamLabs](README.md)
+* [👋 Hello](README.md)
+* [BlueTeamLabs](<README (1).md>)
   * [The Report](BlueTeamLabs/The-Report/README.md)
   * [Follina](BlueTeamLabs/follina/README.md)
 * [CyberDefenders](cyberdefenders/README.md)
